@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.e0b8532b.chunk.css",
+    "main.js": "/react-deploy/static/js/main.3a91eac1.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.3a91eac1.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.c00f4a23.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.c00f4a23.js.map",
+    "static/js/2.32c700ca.chunk.js": "/react-deploy/static/js/2.32c700ca.chunk.js",
+    "static/js/2.32c700ca.chunk.js.map": "/react-deploy/static/js/2.32c700ca.chunk.js.map",
+    "static/js/3.8b8361a2.chunk.js": "/react-deploy/static/js/3.8b8361a2.chunk.js",
+    "static/js/3.8b8361a2.chunk.js.map": "/react-deploy/static/js/3.8b8361a2.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.e0b8532b.chunk.css.map": "/react-deploy/static/css/main.e0b8532b.chunk.css.map",
+    "static/js/2.32c700ca.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.32c700ca.chunk.js.LICENSE.txt",
+    "static/media/dr_house.24fbdd32.jpg": "/react-deploy/static/media/dr_house.24fbdd32.jpg",
+    "static/media/drhouse.19ccc6d6.jpg": "/react-deploy/static/media/drhouse.19ccc6d6.jpg",
+    "static/media/everybody.30c7ea26.jpg": "/react-deploy/static/media/everybody.30c7ea26.jpg",
+    "static/media/likes.9b4eef74.png": "/react-deploy/static/media/likes.9b4eef74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c00f4a23.js",
+    "static/js/2.32c700ca.chunk.js",
+    "static/css/main.e0b8532b.chunk.css",
+    "static/js/main.3a91eac1.chunk.js"
+  ]
+}
